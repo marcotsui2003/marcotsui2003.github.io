@@ -1,7 +1,0 @@
-group :jekyll_plugins do
-   gem "redcarpet"
-   gem "jekyll_inline_highlight"
-   gem "jekyll-sitemap"
-   gem "jekyll-feed"
-   gem "rdiscount"
- end

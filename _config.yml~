@@ -22,7 +22,7 @@ gems: [jekyll_inline_highlight]
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: marcotsui2015
   facebook:
   flickr:
   github: marcotsui2003
@@ -41,7 +41,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-74192506-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
